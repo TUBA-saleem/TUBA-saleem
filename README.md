@@ -1,16 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Tuba Saleem</h1>
 <p align="center">
-🎓 CS Student | 👩‍💻 Android & AI Developer | 🔊 Voice-Driven Systems Enthusiast  
+🎓 CS Student | 👩‍💻 Backend Developer 
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💡 I’m passionate about **building intelligent apps** that solve real-world problems.
-- 📱 Currently working on: `Voice-Driven AI Chatbot`, `Sign Detection System`, and `GrocerApp`.
-- 🧑‍🏫 Always learning new things in **Machine Learning, Android Dev, and Backend APIs**.
-- 🌍 I love exploring how **AI and education** can combine to make kids learn better and faster.
+💻 I enjoy working with Angular, Node.js, Express, MongoDB, and Kotlin.
+
+🚀 Currently exploring AI-powered projects, voice-enabled apps, and real-time systems.
+
+📂 I build projects to learn, experiment, and solve real-world problems.
+
+🎯 My goal is to create clean, efficient, and maintainable code that makes an impact.
+
+🌐 Always excited to collaborate, learn new technologies, and contribute to open-source projects.
 
 ---
 
@@ -24,6 +29,11 @@
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+Frontend: Angular, React, HTML, CSS, JavaScript, Bootstrap 
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, Firebase
+Authentication & Security: JWT, bcrypt
+Other Tools: Git & GitHub, VS Code, Postman
 
 ---
 
