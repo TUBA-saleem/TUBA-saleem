@@ -21,14 +21,7 @@
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
 Frontend: Angular, React, HTML, CSS, JavaScript, Bootstrap 
 Backend: Node.js, Express.js, REST APIs
 Database: MongoDB, Firebase
