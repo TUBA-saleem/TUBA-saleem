@@ -1,32 +1,31 @@
 <h1 align="center">Hi there 👋, I'm Tuba Saleem</h1>
 <p align="center">
-🎓 CS Student | 👩‍💻 Backend Developer 
+🎓 Computer Science Graduate | 👩‍💻 Aspiring Associate Software Engineer | MERN Stack Developer
 </p>
 
 ---
 
 ### 🧠 About Me
 
-💻 I enjoy working with Angular, Node.js, Express, MongoDB, and Kotlin.
+💻 Passionate about building **full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js).**
 
-🚀 Currently exploring AI-powered projects, voice-enabled apps, and real-time systems.
+🚀 Currently improving my skills in **backend development, REST APIs, and scalable application design.**
 
-📂 I build projects to learn, experiment, and solve real-world problems.
+📂 I enjoy building projects that solve real-world problems and strengthen my **problem-solving and development skills.**
 
-🎯 My goal is to create clean, efficient, and maintainable code that makes an impact.
+🎯 My goal is to become an **Associate Software Engineer** and contribute to building efficient, scalable software systems.
 
-🌐 Always excited to collaborate, learn new technologies, and contribute to open-source projects.
+🌱 Currently learning **advanced Node.js concepts, system design basics, and data structures for interviews.**
 
 ---
 
 ### 🔧 Technologies & Tools
 
-
-Frontend: Angular, React, HTML, CSS, JavaScript, Bootstrap 
-Backend: Node.js, Express.js, REST APIs
-Database: MongoDB, Firebase
-Authentication & Security: JWT, bcrypt
-Other Tools: Git & GitHub, VS Code, Postman
+**Frontend:** React, Angular, HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, Firebase  
+**Authentication & Security:** JWT, bcrypt  
+**Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
@@ -41,21 +40,19 @@ Other Tools: Git & GitHub, VS Code, Postman
 
 ### 📌 Featured Projects
 
-- 🎤 **[Voice-Driven AI Chatbot](https://github.com/TUBA-saleem/VoiceDrivenAIChatbot)** – AI-based mobile app for kids education using speech-to-text and TTS  
-- ✋ **[Sign Detection System](https://github.com/TUBA-saleem/SignDetection)** – Real-time hand and traffic sign recognition using CNN and OpenCV  
-- 🛒 **[GrocerApp](https://github.com/TUBA-saleem/GrocerApp)** – Android-based grocery delivery app using Firebase & Kotlin
+- 🎤 **[Voice-Driven AI Chatbot](https://github.com/TUBA-saleem/VoiceDrivenAIChatbot)** – Voice-enabled educational chatbot using speech-to-text and text-to-speech  
+- ✋ **[Sign Detection System](https://github.com/TUBA-saleem/SignDetection)** – Real-time sign recognition using Python, CNN, and OpenCV  
+- 🛒 **[GrocerApp](https://github.com/TUBA-saleem/GrocerApp)** – Android grocery delivery app built with Kotlin and Firebase  
+- 🏫 **School Management System** – Backend APIs using Node.js, Express.js, and MongoDB for managing students, teachers, and classes
 
 ---
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/tuba-saleem-6a8426349/)
-- [GitHub](https://github.com/TUBA-saleem)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuba-saleem-6a8426349/)
+- 💻 [GitHub](https://github.com/TUBA-saleem)
 - 📬 Email: **tubasaleem833@gmail.com**
 
 ---
 
-_Thanks for visiting my profile!_ 😊  
-_“Learning never exhausts the mind.” – Leonardo da Vinci_
-
+⭐ *Always learning, building, and improving as a developer.*
