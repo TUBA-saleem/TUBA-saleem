@@ -15,7 +15,7 @@
 
 🎯 My goal is to become an **Associate Software Engineer** and contribute to building efficient, scalable software systems.
 
-🌱 Currently learning **advanced Node.js concepts, system design basics, and data structures for interviews.**
+🌱 Currently learning **advanced Node.js concepts, system design basics.**
 
 ---
 
@@ -43,8 +43,8 @@
 - 🎤 **[Voice-Driven AI Chatbot](https://github.com/TUBA-saleem/VoiceDrivenAIChatbot)** – Voice-enabled educational chatbot using speech-to-text and text-to-speech  
 - ✋ **[Sign Detection System](https://github.com/TUBA-saleem/SignDetection)** – Real-time sign recognition using Python, CNN, and OpenCV  
 - 🛒 **[GrocerApp](https://github.com/TUBA-saleem/GrocerApp)** – Android grocery delivery app built with Kotlin and Firebase  
-- 🏫 **School Management System** – Backend APIs using Node.js, Express.js, and MongoDB for managing students, teachers, and classes
-
+- 🏫 **School Management System** – Backend APIs using Node.js, Express.js, and MongoDB for managing students, teachers, and classes 
+- 🛒 **[Banking-Transection-system](https://github.com/TUBA-saleem/Banking-Transection-system)** – Banking transection System built with Node js,express and mondodb 
 ---
 
 ### 📫 Connect With Me
